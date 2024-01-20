@@ -1,6 +1,5 @@
 {
   "name": "casidlkai-blog",
-  "homepage": "https://github.com/casidlkai/casidlkai.github.io.git/public",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
